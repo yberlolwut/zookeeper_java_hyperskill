@@ -1,0 +1,62 @@
+# Project exclude paths
+/.gradle/
+/Topics/Array/Initializing an array of integers/out/
+/Topics/Array/Initializing an array of integers/out/production/classes/
+/Topics/Array/Theory/out/
+/Topics/Array/Theory/out/production/classes/
+/Topics/Calling a method/Call me awesome/out/
+/Topics/Calling a method/Call me awesome/out/production/classes/
+/Topics/Calling a method/Theory/out/
+/Topics/Calling a method/Theory/out/production/classes/
+/Topics/Conditional statement/Interval/out/
+/Topics/Conditional statement/Interval/out/production/classes/
+/Topics/Conditional statement/Statements/out/
+/Topics/Conditional statement/Statements/out/production/classes/
+/Topics/Conditional statement/The condition to travel around the world/out/
+/Topics/Conditional statement/The condition to travel around the world/out/production/classes/
+/Topics/Conditional statement/Theory/out/
+/Topics/Conditional statement/Theory/out/production/classes/
+/Topics/Integer types and operations/Calculate the digit/out/
+/Topics/Integer types and operations/Calculate the digit/out/production/classes/
+/Topics/Integer types and operations/Good rest on vacation/out/
+/Topics/Integer types and operations/Good rest on vacation/out/production/classes/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/production/classes/
+/Topics/Integer types and operations/Theory/out/
+/Topics/Integer types and operations/Theory/out/production/classes/
+/Topics/Primitive and reference types/Creating a primitive/out/
+/Topics/Primitive and reference types/Creating a primitive/out/production/classes/
+/Topics/Primitive and reference types/Null syntax/out/
+/Topics/Primitive and reference types/Null syntax/out/production/classes/
+/Topics/Primitive and reference types/Theory/out/
+/Topics/Primitive and reference types/Theory/out/production/classes/
+/Topics/Relational operators/Boys in a sport class/out/
+/Topics/Relational operators/Boys in a sport class/out/production/classes/
+/Topics/Relational operators/Determine the result/out/
+/Topics/Relational operators/Determine the result/out/production/classes/
+/Topics/Relational operators/Existing operators/out/
+/Topics/Relational operators/Existing operators/out/production/classes/
+/Topics/Relational operators/Job offer/out/
+/Topics/Relational operators/Job offer/out/production/classes/
+/Topics/Relational operators/Theory/out/
+/Topics/Relational operators/Theory/out/production/classes/
+/Topics/Scanning the input/Printing strings in the same order/out/
+/Topics/Scanning the input/Printing strings in the same order/out/production/classes/
+/Topics/Scanning the input/Reading a number/out/
+/Topics/Scanning the input/Reading a number/out/production/classes/
+/Topics/Scanning the input/Theory/out/
+/Topics/Scanning the input/Theory/out/production/classes/
+/Topics/String/Extracting a character/out/
+/Topics/String/Extracting a character/out/production/classes/
+/Topics/String/Finding string expressions/out/
+/Topics/String/Finding string expressions/out/production/classes/
+/Topics/String/Replacing 'a' with 'b'/out/
+/Topics/String/Replacing 'a' with 'b'/out/production/classes/
+/Topics/String/Statements/out/
+/Topics/String/Statements/out/production/classes/
+/Topics/String/Theory/out/
+/Topics/String/Theory/out/production/classes/
+/Zookeeper (Java)/task/build/
+/Zookeeper (Java)/task/out/
+/Zookeeper (Java)/task/out/production/classes/
+/Zookeeper (Java)/task/out/test/classes/

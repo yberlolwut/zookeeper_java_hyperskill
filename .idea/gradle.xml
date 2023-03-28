@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Topics/Array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Call me awesome" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Interval" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The condition to travel around the world" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Calculate the digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Good rest on vacation" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/How many nuts each squirrel will get" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Null syntax" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Existing operators" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Job offer" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Reading a number" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a character" />
+            <option value="$PROJECT_DIR$/Topics/String/Finding string expressions" />
+            <option value="$PROJECT_DIR$/Topics/String/Replacing 'a' with 'b'" />
+            <option value="$PROJECT_DIR$/Topics/String/Statements" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
